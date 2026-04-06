@@ -1,7 +1,9 @@
 # Coverage Technical Test
 
 Make sure to read the this file before starting the test. 
+
 Also, please make sure the test is running on your machine when the test starts.
+
 If it works, you should see "You are ready for the technical test" on your screen when you open http://localhost:5173/
 
 ## How to run
