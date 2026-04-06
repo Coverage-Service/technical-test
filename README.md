@@ -12,3 +12,4 @@ Open the project in your preferred IDE, run `yarn install` then run the code wit
 - You can search any information online via Google or any search engine. Although, you are not allowed to use LLMs.
 - The requirements for the technical test will be given at the start of the test.
 - Do not modify the code in the `server/` folder. You are free to modify anything else.
+- At the end of the test, please create a new branch and push your code to GitHub.
