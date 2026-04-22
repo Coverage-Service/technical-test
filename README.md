@@ -7,7 +7,7 @@ Also, please make sure the test is running on your machine when the test starts.
 If it works, you should see "You are ready for the technical test" on your screen when you open http://localhost:5173/
 
 ## How to run
-Open the project in your preferred IDE, run `yarn install` then run the code with `yarn start`
+Open the project in your preferred IDE, run `yarn install` then run the code with `yarn dev`
 
 ## Rules
 - Use any IDE you want as long as they are not using AI (eg Claude). IntelliJ or VSCode are recommended, and auto-completion is allowed.
